@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://mydomain.org/mysite/</loc>
+         <lastmod>2024-05-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/progetto/</loc>
+         <lastmod>2024-05-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/archivio/16%20giugno%202024/</loc>
+         <lastmod>2024-05-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/archivio/2%20giugno%202024/</loc>
+         <lastmod>2024-05-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/archivio/9%20giugno%202024/</loc>
+         <lastmod>2024-05-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
